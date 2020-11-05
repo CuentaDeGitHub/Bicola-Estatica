@@ -1,0 +1,10 @@
+C:\Users\Gerar\source\repos\BiColaEstaticaDeAdevis\BiColaEstaticaDeAdevis\bin\Debug\BiColaEstaticaDeAdevis.exe.config
+C:\Users\Gerar\source\repos\BiColaEstaticaDeAdevis\BiColaEstaticaDeAdevis\bin\Debug\BiColaEstaticaDeAdevis.exe
+C:\Users\Gerar\source\repos\BiColaEstaticaDeAdevis\BiColaEstaticaDeAdevis\bin\Debug\BiColaEstaticaDeAdevis.pdb
+C:\Users\Gerar\source\repos\BiColaEstaticaDeAdevis\BiColaEstaticaDeAdevis\obj\Debug\BiColaEstaticaDeAdevis.csprojAssemblyReference.cache
+C:\Users\Gerar\source\repos\BiColaEstaticaDeAdevis\BiColaEstaticaDeAdevis\obj\Debug\BiColaEstaticaDeAdevis.Form1.resources
+C:\Users\Gerar\source\repos\BiColaEstaticaDeAdevis\BiColaEstaticaDeAdevis\obj\Debug\BiColaEstaticaDeAdevis.Properties.Resources.resources
+C:\Users\Gerar\source\repos\BiColaEstaticaDeAdevis\BiColaEstaticaDeAdevis\obj\Debug\BiColaEstaticaDeAdevis.csproj.GenerateResource.cache
+C:\Users\Gerar\source\repos\BiColaEstaticaDeAdevis\BiColaEstaticaDeAdevis\obj\Debug\BiColaEstaticaDeAdevis.csproj.CoreCompileInputs.cache
+C:\Users\Gerar\source\repos\BiColaEstaticaDeAdevis\BiColaEstaticaDeAdevis\obj\Debug\BiColaEstaticaDeAdevis.exe
+C:\Users\Gerar\source\repos\BiColaEstaticaDeAdevis\BiColaEstaticaDeAdevis\obj\Debug\BiColaEstaticaDeAdevis.pdb
